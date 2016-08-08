@@ -28,5 +28,5 @@ Make the directory where data is stored configurable. Right now it writes to `.f
 This is currently configurable in [fsdown][] but not yet in [pouchdb-adapter-fs][].
 
 [express-pouchdb]: https://github.com/pouchdb/express-pouchdb
-[pouchdb-adapter-fs]: https://github.com/nolanlawson/pouchdb-adpater-fs
+[pouchdb-adapter-fs]: https://github.com/nolanlawson/pouchdb-adapter-fs
 [fsdown]: https://github.com/nolanlawson/fsdown
