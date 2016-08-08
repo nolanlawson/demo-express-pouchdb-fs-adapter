@@ -1,0 +1,23 @@
+{
+  "name": "demo-express-pouchdb-fs-adapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nolan Lawson <nolan@nolanlawson.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-pouchdb": "^1.0.7",
+    "js-extend": "^1.0.1",
+    "pouchdb-adapter-fs": "^1.0.0",
+    "pouchdb-adapter-leveldb-core": "^5.4.5",
+    "pouchdb-core": "^5.4.5",
+    "pouchdb-mapreduce": "^5.4.5",
+    "pouchdb-replication": "^5.4.5"
+  }
+}
