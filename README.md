@@ -8,7 +8,7 @@ Goals
 
 * No hard-to-install native dependencies (leveldown, sqlite3, etc.)
 * Full [express-pouchdb][] server, with replication, Fauxton, etc.
-* Persistence (no in-memory adapter, MemDOWN. etc.))
+* Persistence (no in-memory adapter, MemDOWN. etc.)
 
 Usage
 -----
