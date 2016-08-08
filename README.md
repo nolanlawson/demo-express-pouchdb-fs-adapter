@@ -10,7 +10,7 @@ Goals
 * Full `express-pouchdb` server, with replication, Fauxton, etc.
 * Persistence (i.e. no memdown)
 
-Usage:
+Usage
 -----
 
 ```
