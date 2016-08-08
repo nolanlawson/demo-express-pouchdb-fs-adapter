@@ -3,6 +3,8 @@ demo-express-pouchdb-adapter-fs
 
 Demo of using [pouchdb-adapter-fs][] with [express-pouchdb][].
 
+**Note:** not designed for production. See [fsdown][] for details.
+
 Goals
 ----
 
